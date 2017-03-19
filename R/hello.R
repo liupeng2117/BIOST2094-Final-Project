@@ -4,7 +4,7 @@
 ##' @title Hello group!
 ##' @return
 ##' @author
-
+##'
 
 hello <- function() {
   print("Hello, group!")
